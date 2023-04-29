@@ -1,0 +1,3 @@
+[submodule "pyinstaller-output"]
+	path = pyinstaller-output
+	url = git@github.com:stemilau/util-flag-pdfs-bin.git
